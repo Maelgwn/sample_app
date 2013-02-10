@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.11'
+gem 'bootstrap-sass', '2.1'
+
 # Downgraded to 0.3.6 - 0.3.7 had some problems with guard-spork
 gem "childprocess", "0.3.6"
 
